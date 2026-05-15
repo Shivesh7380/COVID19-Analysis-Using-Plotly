@@ -139,22 +139,7 @@ Future enhancements for this project may include:
 # Project Structure
 
 ├── COVID19_Analysis.ipynb
-├── covid.csv
-├── covid_grouped.csv
-├── coviddeath.csv
 ├── README.md
-└── images/
-
-# Sample Visualizations
-
-## Choropleth Map
-![COVID Map](images/covid_map.png)
-
-## Bubble Chart
-![Bubble Chart](images/bubble_chart.png)
-
-## Scatter Plot
-![Scatter Plot](images/scatter_plot.png)
 
 # Reference
 
